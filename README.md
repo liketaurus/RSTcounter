@@ -13,11 +13,11 @@
 
 ##Использованные библиотеки
 * [Netbeans platform] 
-  * тут - [все учебные материалы]
+  * [учебные материалы по платформе]
 * [jFreeChart]
 * [OpenCloud]
 * TextIO и WordCount от [Hobart and William Smith Colleges :: Department of Mathematics and Computer Science] 
-  * здесь - [все исходники]
+  * [все исходники от HWS]
 
 ##Предупреждение
 **ВНИМАНИЕ!** Проект еще очень "сырой" - это, по сути, даже не альфа-версия - просто кое-как работающий прототип. Естественно, на этой стадии код выглядит очень корявым, в нем присутствует дублирование, многое реализовано странно и далеко не оптимально. По ходу работы, я буду проводить рефакторинг и наводить красоту:-)
@@ -26,9 +26,9 @@ ___
 Узнать больше и связаться со мной можно через мой блог: [ProductivityBlog.com.ua]
 
 [Netbeans platform]: https://netbeans.org/features/platform/
-[все учебные материалы]: https://netbeans.org/kb/trails/platform_ru.html
+[учебные материалы по платформе]: https://netbeans.org/kb/trails/platform_ru.html
 [jFreeChart]: http://www.jfree.org/jfreechart/
 [OpenCloud]: http://grepcode.com/snapshot/repo1.maven.org/maven2/org.mcavallo/opencloud/0.3
 [Hobart and William Smith Colleges :: Department of Mathematics and Computer Science]: http://math.hws.edu/
-[все исходники]: http://math.hws.edu/javanotes/source/
+[все исходники от HWS]: http://math.hws.edu/javanotes/source/
 [ProductivityBlog.com.ua]: http://productivityblog.com.ua/
