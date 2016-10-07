@@ -6,10 +6,11 @@
 
 Методика оценки и ее критерии - все еще в процессе их создания, поэтому пока здесь выложен только очень ранний прототип приложения, основанный на платформе Netbeans.
 
-Подробнее об *обратной семантической трассировке (RST)* и содержащей ее методике - *P-Modeling Framework* - вы можете прочесть в Википедии ([en], [ua]).
+Подробнее об *обратной семантической трассировке (RST)* и содержащей ее методике - *P-Modeling Framework* - вы можете прочесть в Википедии ([en], [ua]), или в моей статье в [Medium].
 
 [en]: https://en.wikipedia.org/wiki/P-Modeling_Framework
 [ua]: https://uk.wikipedia.org/wiki/P-modeling
+[Medium]: https://medium.com/@liketaurus/%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE-%D1%81%D1%83%D1%82%D0%B8-rst-fd3a802837f5#.2h09gi84s
 
 ##Использованные библиотеки
 * [Netbeans platform] 
